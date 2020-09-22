@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5512470D251A26BF002724E0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		55AA716B25191AEA002229F1 /* POCMacWebView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = POCMacWebView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55AA716E25191AEA002229F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		55AA717025191AEA002229F1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		55AA716225191AEA002229F1 = {
 			isa = PBXGroup;
 			children = (
+				5512470D251A26BF002724E0 /* README.md */,
 				55AA716D25191AEA002229F1 /* POCMacWebView */,
 				55AA716C25191AEA002229F1 /* Products */,
 			);
